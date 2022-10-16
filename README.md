@@ -47,8 +47,8 @@ to start the App you need android Studio installed and run the Project from the 
 
 
 ## Tried on
-* Google Pixel XL API30
-* OnePlus 7 PRO API30
+- Google Pixel XL API30
+- OnePlus 7 PRO API30
 
 
 ## Screenshots
