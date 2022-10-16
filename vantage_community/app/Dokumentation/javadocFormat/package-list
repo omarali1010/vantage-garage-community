@@ -1,0 +1,41 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.vantage_community.navigation/Screen.Anmeldung///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Anmeldung.html
+$dokka.location:com.example.vantage_community.navigation/Screen.BottomnavEinlagerer///PointingToDeclaration/com/example/vantage_community/navigation/Screen.BottomnavEinlagerer.html
+$dokka.location:com.example.vantage_community.navigation/Screen.BottomnavLagerhalter///PointingToDeclaration/com/example/vantage_community/navigation/Screen.BottomnavLagerhalter.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Detailsinfo///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Detailsinfo.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Entgegennahme///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Entgegennahme.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Home///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Home.html
+$dokka.location:com.example.vantage_community.navigation/Screen.LagerLagerhalter///PointingToDeclaration/com/example/vantage_community/navigation/Screen.LagerLagerhalter.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Neuelager///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Neuelager.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Postfach///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Postfach.html
+$dokka.location:com.example.vantage_community.navigation/Screen.PostfachLagerhalter///PointingToDeclaration/com/example/vantage_community/navigation/Screen.PostfachLagerhalter.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Profil///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Profil.html
+$dokka.location:com.example.vantage_community.navigation/Screen.ProfilLagerhalter///PointingToDeclaration/com/example/vantage_community/navigation/Screen.ProfilLagerhalter.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Registrierung///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Registrierung.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Servicebuchen///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Servicebuchen.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Splash///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Splash.html
+$dokka.location:com.example.vantage_community.navigation/Screen.Stellplatzsuche///PointingToDeclaration/com/example/vantage_community/navigation/Screen.Stellplatzsuche.html
+$dokka.location:com.example.vantage_community.navigation/Screen.lagerandern///PointingToDeclaration/com/example/vantage_community/navigation/Screen.lagerandern.html
+com.example.vantage_community
+com.example.vantage_community.data.local
+com.example.vantage_community.domain.model
+com.example.vantage_community.navigation
+com.example.vantage_community.presentation.screens.Anmeldung
+com.example.vantage_community.presentation.screens.einlagerer.bottomnav
+com.example.vantage_community.presentation.screens.einlagerer.detailsinformationanfragen
+com.example.vantage_community.presentation.screens.einlagerer.entgegennahme
+com.example.vantage_community.presentation.screens.einlagerer.postfach
+com.example.vantage_community.presentation.screens.einlagerer.profil
+com.example.vantage_community.presentation.screens.einlagerer.serviceBuchen
+com.example.vantage_community.presentation.screens.einlagerer.stellplatzsuche
+com.example.vantage_community.presentation.screens.lagerhalter.bottomnav
+com.example.vantage_community.presentation.screens.lagerhalter.lager
+com.example.vantage_community.presentation.screens.lagerhalter.lagerandern
+com.example.vantage_community.presentation.screens.lagerhalter.neuelager
+com.example.vantage_community.presentation.screens.lagerhalter.postfach
+com.example.vantage_community.presentation.screens.lagerhalter.profil
+com.example.vantage_community.presentation.screens.registrierung
+com.example.vantage_community.presentation.screens.splash
+com.example.vantage_community.ui.theme
+
