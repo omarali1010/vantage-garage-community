@@ -13,8 +13,7 @@ classic cars
 
 ## Why the App is built
 This Project was a part from the "CS1023 Softwaretechnik-Projekt"
-at THM university.
-from 3 Students :
+at THM university.Which is developed by 3 Students :
 - **Scholz, Sarah**
 Projektmanagerin
 
@@ -27,16 +26,16 @@ Lead Software Architect
 for more details about the project in German look at
 ![Dokumentation](https://github.com/omarali1010/vantage-garage-community/tree/main/Dokumente_SWTP_Weyer_GruppeB)
 it contains the :
-- specification
+- Specification
 - Software Design
 - User manual
 - Test documentation
-- the Documentation for the Source Code
+- Documentation for the Source Code
 
 
 ## how to start the App
 
-to start the App you need android Studio installed and run the Project there
+to start the App you need android Studio installed and run the Project from the run button
 
 ## Technologies
 - Team Work
@@ -51,9 +50,6 @@ to start the App you need android Studio installed and run the Project there
 * Google Pixel XL API30
 * OnePlus 7 PRO API30
 
-
-## Source Code Documentation
-under vantage_community/app/Dokumentation
 
 ## Screenshots
 
@@ -74,5 +70,5 @@ under vantage_community/app/Dokumentation
 
 ![alt text](https://github.com/omarali1010/vantage-garage-community/blob/main/postfach.jpeg)
 
-![alt text](https://github.com/omarali1010/vantage-garage-community/blob/main/searchforlager.jpeg)
+![alt text](https://github.com/omarali1010/vantage-garage-community/blob/main/profil.jpeg)
 
